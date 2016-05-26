@@ -1,2 +1,3 @@
 This is my first test
 This is a special test-----
+Git has a mutable index called stage.
